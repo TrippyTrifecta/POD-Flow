@@ -1,0 +1,190 @@
+[
+  {
+    "cycle_id": "SC-006",
+    "stage": "Social Content",
+    "task_id": "SC-006",
+    "input_brief": "Plan and generate 5-10 short-form content ideas and scripts for cross-promotion; prepare hooks, on-screen text, and CTAs.",
+    "outputs": [
+      {
+        "content_id": "SC-001",
+        "format": "TikTok/Reels (15-30s)",
+        "theme_featured": "T-03 (Redacted Truth)",
+        "title": "POV: You found this in the recycling bin at the Pentagon",
+        "hook": "First 2 seconds: Close-up of hands pulling a 'classified document' out of a paper shredder",
+        "script": {
+          "visual": "Hands unfolding a crumpled 'classified document' (the design), camera slowly reveals the redacted text. Cut to the t-shirt with the design. Model reads the visible words between bars. Final shot: model wearing the shirt walking away.",
+          "on_screen_text": ["POV: you found this in the recycling bin at the Pentagon", "Wait... read between the lines 👀", "WHAT ARE THEY HIDING", "Link in bio"],
+          "audio": "Trending suspenseful sound or 'X-Files theme' remix",
+          "duration": "18 seconds"
+        },
+        "cta": "Link in bio — before it gets redacted too",
+        "hashtags": ["#conspiracy", "#redacted", "#classified", "#truthseeker", "#graphictee", "#newdrop", "#conspiracytok", "#whataretheyhiding"],
+        "estimated_reach": "High — conspiracy content performs well, POV format is trending"
+      },
+      {
+        "content_id": "SC-002",
+        "format": "TikTok/Reels (15-20s)",
+        "theme_featured": "T-01 (Esoteric Eye & Capitol)",
+        "title": "This design has layers... literally",
+        "hook": "First 2 seconds: Black screen, single golden eye opens slowly",
+        "script": {
+          "visual": "Animation/transition showing design layers building: first the dark background, then the capitol silhouette rises, then geometric rays appear, then the golden eye fades in on top. Final frame: the complete design on a black hoodie. End card with shop link.",
+          "on_screen_text": ["Watch it come together 👁️", "Layer by layer", "The eye sees everything", "Shop now — link in bio"],
+          "audio": "Deep bass buildup sound, dramatic reveal",
+          "duration": "15 seconds"
+        },
+        "cta": "The eye is watching. Are you? Link in bio.",
+        "hashtags": ["#allseeingeye", "#illuminati", "#designprocess", "#behindthedesign", "#streetwear", "#newdrop", "#conspiracy", "#graphicdesign"],
+        "estimated_reach": "Medium-High — design process reveals get good engagement"
+      },
+      {
+        "content_id": "SC-003",
+        "format": "TikTok/Reels (20-30s)",
+        "theme_featured": "T-05 (Occult Data Grid)",
+        "title": "Sacred geometry but make it tech",
+        "hook": "First 2 seconds: Spinning sacred geometry animation with glitch effects",
+        "script": {
+          "visual": "Start with traditional sacred geometry (Flower of Life) spinning slowly. Glitch transition — it transforms into the tech-fused version with WiFi symbols, data nodes, circuit traces. Pull back to reveal it's on a black t-shirt. Model turns to show the design. Cut to holographic sticker catching light.",
+          "on_screen_text": ["Sacred geometry...", "...but make it TECH 🔮💻", "Ancient meets digital", "Sticker + tee — link in bio"],
+          "audio": "Chill electronic/lo-fi beat with glitch sound effects on transition",
+          "duration": "22 seconds"
+        },
+        "cta": "Holographic sticker drops with every tee order this week",
+        "hashtags": ["#sacredgeometry", "#mandala", "#techart", "#holographic", "#occult", "#spiritual", "#graphictee", "#stickertok"],
+        "estimated_reach": "Medium — sacred geometry niche is dedicated, cross-appeal with tech audience"
+      },
+      {
+        "content_id": "SC-004",
+        "format": "TikTok/Reels (10-15s)",
+        "theme_featured": "T-02 (Ciphered Skyline)",
+        "title": "Your desk setup is missing something",
+        "hook": "First 2 seconds: Overhead shot of clean desk setup, something slides into frame",
+        "script": {
+          "visual": "Clean desk setup top-down view. Hands slide the cyberpunk desk mat into position. Keyboard and mouse placed on top. RGB lights sync to the neon green of the mat. Final shot: full setup with monitor showing matching wallpaper.",
+          "on_screen_text": ["Your setup is missing this 🎮", "Cyberpunk Desk Mat", "35 x 15.5 inches", "Link in bio"],
+          "audio": "Satisfying 'click' sounds, synth ambient background",
+          "duration": "12 seconds"
+        },
+        "cta": "Upgrade your desk. Link in bio.",
+        "hashtags": ["#desksetup", "#gamingsetup", "#deskmat", "#cyberpunk", "#pcgaming", "#setuptour", "#deskaccessories", "#gamertok"],
+        "estimated_reach": "High — desk setup content is consistently popular, crossover gaming audience"
+      },
+      {
+        "content_id": "SC-005",
+        "format": "TikTok/Reels (20-25s)",
+        "theme_featured": "T-06 (The Gaze of Atlas)",
+        "title": "Would you hang this on your wall?",
+        "hook": "First 2 seconds: Blurred close-up of the cosmic eye, slowly pulling focus",
+        "script": {
+          "visual": "Slow cinematic pull-back from extreme close-up of the cosmic eye, revealing the full poster with Earth below. Cut to someone hanging the framed poster on a wall. Step back — wide shot of the room with the poster as centerpiece. Engagement prompt on screen.",
+          "on_screen_text": ["Would you hang this on your wall? 👁️🌍", "The Gaze of Atlas", "24x36 Premium Art Print", "Comment YES or NO"],
+          "audio": "Epic orchestral ambient, Hans Zimmer vibes",
+          "duration": "20 seconds"
+        },
+        "cta": "Comment YES if you'd hang this. Link in bio for the brave.",
+        "hashtags": ["#wallart", "#posterart", "#spaceart", "#cosmicart", "#homedecor", "#artprint", "#atlas", "#wouldyou"],
+        "estimated_reach": "High — engagement bait (yes/no) + art reveals perform well"
+      },
+      {
+        "content_id": "SC-006",
+        "format": "TikTok/Reels (30-45s)",
+        "theme_featured": "ALL THEMES (collection reveal)",
+        "title": "I designed 6 conspiracy-themed products. Here's the full drop.",
+        "hook": "First 2 seconds: 'I spent [X] hours designing a conspiracy collection' text on black",
+        "script": {
+          "visual": "Fast montage of all 6 themes — 4 seconds each. Show the design, then the product mockup. Build energy with each theme. End with full collection grid shot. Drop link.",
+          "on_screen_text": ["Full collection drop 🔥", "1. Esoteric Eye", "2. Ciphered Skyline", "3. Redacted Truth", "4. Eyes in the Cloud", "5. Occult Data Grid", "6. The Gaze of Atlas", "Which one's your favorite? Comment the number 👇"],
+          "audio": "Building electronic beat, drops on each design reveal",
+          "duration": "35 seconds"
+        },
+        "cta": "Comment your favorite number. Link in bio for the full collection.",
+        "hashtags": ["#newdrop", "#conspiracyart", "#graphicdesign", "#smallbusiness", "#printsondemand", "#collection", "#streetwear", "#artdrop"],
+        "estimated_reach": "High — collection reveals and 'pick your favorite' formats drive comments"
+      },
+      {
+        "content_id": "SC-007",
+        "format": "Instagram Carousel (5-7 slides)",
+        "theme_featured": "T-04 (Eyes in the Cloud)",
+        "title": "Can you spot all the eyes? 👁️",
+        "hook": "Slide 1: Beautiful cloud photo (or the design zoomed out). Caption: 'Swipe to look closer...'",
+        "script": {
+          "visual": "Slide 1: Full design zoomed out, looks like pretty clouds. Slides 2-4: Progressive zoom-ins revealing hidden eyes in the clouds. Slide 5: The canvas print in a room setting. Slide 6: Product link + 'how many did you find?'",
+          "on_screen_text": ["Can you spot all the eyes?", "Look closer...", "Closer...", "👁️ Found one", "Now imagine this on your wall", "16x16 Canvas Print — link in bio"],
+          "audio": "N/A (carousel)",
+          "duration": "N/A"
+        },
+        "cta": "How many eyes did you find? Comment your count. Canvas prints shipping now.",
+        "hashtags": ["#spotthedifference", "#surrealism", "#cloudart", "#canvasprint", "#wallart", "#hiddendetails", "#artreveal", "#eyeart"],
+        "estimated_reach": "Medium-High — interactive carousels get saved and shared"
+      },
+      {
+        "content_id": "SC-008",
+        "format": "Twitter/X Thread",
+        "theme_featured": "ALL THEMES",
+        "title": "I built a 6-design conspiracy art collection. Here's the creative process 🧵",
+        "hook": "Tweet 1: 'I designed 6 conspiracy-themed products from concept to listing. Here's every step, every decision, and what I'd do differently 🧵👇'",
+        "script": {
+          "visual": "Thread with images: concept sketch → color palette → final design → product mockup for each theme. 10-12 tweets total.",
+          "on_screen_text": ["Tweet 1: Hook + thread intro", "Tweets 2-7: One design per tweet with before/after", "Tweet 8: Pricing strategy breakdown", "Tweet 9: What surprised me", "Tweet 10: Full collection link + CTA"],
+          "audio": "N/A",
+          "duration": "N/A"
+        },
+        "cta": "Full collection live now. RT if you'd buy one, quote tweet with your favorite.",
+        "hashtags": ["#PrintOnDemand", "#POD", "#GraphicDesign", "#SmallBusiness", "#ConspiracyArt"],
+        "estimated_reach": "Medium — threads get bookmarked, good for building authority in POD niche"
+      },
+      {
+        "content_id": "SC-009",
+        "format": "TikTok/Reels (10s)",
+        "theme_featured": "T-03 (Redacted Truth) - Sticker",
+        "title": "The $4 sticker that's outselling my shirts",
+        "hook": "First 2 seconds: Hand slapping CLASSIFIED sticker on a laptop",
+        "script": {
+          "visual": "Quick montage: sticker being applied to laptop, water bottle, notebook, phone case. Each application is a fast cut with satisfying 'slap' sound. Final shot: all items together.",
+          "on_screen_text": ["This $4 sticker 🔥", "Laptop ✓", "Water bottle ✓", "Notebook ✓", "Everything is CLASSIFIED now", "Link in bio"],
+          "audio": "Satisfying slap/click sounds, upbeat short clip",
+          "duration": "10 seconds"
+        },
+        "cta": "Classify your stuff. Link in bio.",
+        "hashtags": ["#stickertok", "#stickers", "#classified", "#laptopsticker", "#vinylsticker", "#smallbiz", "#stickerbomb"],
+        "estimated_reach": "High — sticker content is short, satisfying, and shareable"
+      },
+      {
+        "content_id": "SC-010",
+        "format": "Pinterest Pin",
+        "theme_featured": "ALL THEMES",
+        "title": "Conspiracy Art Collection — Dark Aesthetic Home Decor & Streetwear",
+        "hook": "Vertical pin image: grid of all 6 designs with 'CONSPIRACY ART COLLECTION' text overlay",
+        "script": {
+          "visual": "2:3 vertical pin. Top: collection title in bold typography. Middle: 2x3 grid of all 6 designs. Bottom: 'Shop the full collection' CTA. Clean, pinnable aesthetic.",
+          "on_screen_text": ["CONSPIRACY ART COLLECTION", "6 Designs • Tees • Posters • Canvas • Stickers", "Shop the full collection →"],
+          "audio": "N/A",
+          "duration": "N/A"
+        },
+        "cta": "Pin links to collection page or Etsy shop",
+        "hashtags": ["N/A — use Pinterest keywords in description: conspiracy art, dark aesthetic, all seeing eye, occult home decor, truth seeker gifts, graphic tee designs"],
+        "estimated_reach": "Long-tail — Pinterest drives passive traffic for months. Key platform for POD."
+      }
+    ],
+    "content_calendar_notes": {
+      "launch_sequence": [
+        "Day 1: SC-006 (full collection reveal) — build hype",
+        "Day 2: SC-001 (Redacted Truth POV) — highest virality potential",
+        "Day 3: SC-004 (desk setup) — different audience crossover",
+        "Day 4: SC-007 (Eyes carousel on IG) — engagement play",
+        "Day 5: SC-002 (design process) — behind-the-scenes builds trust",
+        "Day 7: SC-005 (Gaze of Atlas) — premium product push",
+        "Day 8: SC-009 (sticker) — low-barrier impulse buy content",
+        "Day 10: SC-003 (sacred geometry) — niche audience deep cut",
+        "Day 14: SC-008 (Twitter thread) — authority building",
+        "Ongoing: SC-010 (Pinterest) — set and forget, update quarterly"
+      ],
+      "posting_times": "10-11 AM CST and 7-9 PM CST for TikTok/Reels. Pinterest: anytime. Twitter threads: Tuesday-Thursday mornings.",
+      "repurposing": "Every TikTok → Reels + YouTube Shorts. Carousels → Pinterest. Thread → blog post for SEO."
+    },
+    "next_actions": [],
+    "timestamps": {"start": "2026-02-19T14:00:00Z", "end": "2026-02-19T14:05:00Z"},
+    "assets": [],
+    "flags": ["NONE"]
+  }
+]

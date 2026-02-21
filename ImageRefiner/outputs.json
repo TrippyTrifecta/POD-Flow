@@ -1,0 +1,165 @@
+[
+  {
+    "cycle_id": "IR-004",
+    "stage": "Image Refiner",
+    "task_id": "IR-004",
+    "input_brief": "Refine mockups from MM-003: adjust colors, masks, and shadows; prepare variants for 4-color options. Provide quality checklist and iteration notes per theme.",
+    "outputs": [
+      {
+        "theme_id": "T-01",
+        "theme_name": "Esoteric Eye & Capitol",
+        "refinement_notes": {
+          "color_adjustments": [
+            "Gold (#C9A84C) must print warm — test on dark fabric; DTG gold tends to go olive. Bump saturation +10% for fabric prints.",
+            "Dark red accent (#8B0000) reads well on screen but may darken further on black fabric. Lighten to #A51010 for apparel.",
+            "Poster version: keep original palette. No adjustment needed for paper."
+          ],
+          "quality_checklist": {
+            "resolution_min": "300dpi at final print size",
+            "bleed": "0.25 inches all sides for poster/canvas",
+            "color_mode": "CMYK for print, sRGB for POD platform upload",
+            "transparency": "V2 vector: ensure true transparent background (PNG-24), no white matte",
+            "line_weight": "V2 gold linework: minimum 2px at print resolution to avoid dropout"
+          },
+          "iteration_prompts": [
+            "If V1 eye looks too photorealistic and clashes with the vector capitol: re-prompt with 'consistent digital illustration style throughout, no photorealism mixing'",
+            "If gold tones are too yellow: add 'antique brass, warm metallic, aged gold' to prompt"
+          ],
+          "file_deliverables": ["T01-V1-poster-24x36-CMYK.png", "T01-V2-vector-transparent.png", "T01-V2-tshirt-front.png", "T01-V1-hoodie-back.png", "T01-eye-logo-small.png"]
+        }
+      },
+      {
+        "theme_id": "T-02",
+        "theme_name": "Ciphered Skyline",
+        "refinement_notes": {
+          "color_adjustments": [
+            "Neon green (#00FFA3) is OUT OF GAMUT for CMYK. For print: shift to #00CC7F and accept the compromise OR keep for DTG/sublimation only.",
+            "For mug sublimation: neon will pop — keep RGB values.",
+            "Desk mat: sublimation prints well in full RGB gamut. Keep original palette.",
+            "T-shirt DTG: desaturate neon by 15% to avoid that 'glowing' look that DTG can't reproduce."
+          ],
+          "quality_checklist": {
+            "resolution_min": "300dpi, panoramic versions need 10500x4650px minimum for desk mats",
+            "bleed": "Mug wrap: extend art 0.125\" past trim on all edges",
+            "color_mode": "sRGB for POD uploads, CMYK proof for premium prints",
+            "transparency": "Not needed — all on dark/colored backgrounds",
+            "detail_test": "Print a 3-inch crop of the cipher symbols — if unreadable, simplify"
+          },
+          "iteration_prompts": [
+            "If cipher symbols look random/meaningless: re-prompt with 'recognizable cryptographic and alchemical symbols: Ouroboros, Eye of Horus, binary sequences, hexadecimal strings'",
+            "If cityscape looks generic: add 'distinctive brutalist and art deco architecture mix, unique skyline silhouette'"
+          ],
+          "file_deliverables": ["T02-V1-panoramic-full.png", "T02-V1-mug-wrap.png", "T02-V1-deskmat-35x15.png", "T02-V2-square-crop-tshirt.png"]
+        }
+      },
+      {
+        "theme_id": "T-03",
+        "theme_name": "Redacted Truth",
+        "refinement_notes": {
+          "color_adjustments": [
+            "Black bars: use true black (#000000) for screen, rich black (C60 M40 Y40 K100) for offset print.",
+            "Red stamp (#CC0000): prints reliably across all methods. No adjustment needed.",
+            "Inverted version (white on black): white ink DTG quality varies — test on sample before bulk.",
+            "Paper texture in V1: keep subtle. Over-textured backgrounds increase file size and print complexity."
+          ],
+          "quality_checklist": {
+            "resolution_min": "300dpi, but this theme is mostly vector/text so 600dpi is achievable",
+            "bleed": "Standard 0.25\" for poster",
+            "color_mode": "Technically 2-3 spot colors possible for screenprint — cost advantage",
+            "transparency": "White tee version: transparent background NOT needed (white base). Black tee version: transparent PNG with white ink layer",
+            "text_legibility": "Visible words between bars must be readable at arm's length on a tee (min 24pt equivalent)"
+          },
+          "iteration_prompts": [
+            "If visible words look too clean/digital: add 'typewriter imperfections, uneven ink density, slight character misalignment'",
+            "If CLASSIFIED stamp looks clip-art-ish: 're-prompt with rubber stamp texture, partial ink transfer, edge bleed, rotated 12-18 degrees'"
+          ],
+          "file_deliverables": ["T03-V1-poster-photorealistic.png", "T03-V2-light-tee.png", "T03-V2-dark-tee-inverted.png", "T03-stamp-sticker-diecut.png"]
+        }
+      },
+      {
+        "theme_id": "T-04",
+        "theme_name": "Eyes in the Cloud",
+        "refinement_notes": {
+          "color_adjustments": [
+            "Gold irises (#FFD700): ensure they remain the focal point. If clouds overpower, increase iris brightness +15%.",
+            "Steel blue (#4A6FA5) on navy t-shirt: low contrast risk. Lighten to #6B8FC5 for apparel or add white outline.",
+            "Canvas print: keep full dynamic range. Warm whites in clouds should print beautifully on premium canvas."
+          ],
+          "quality_checklist": {
+            "resolution_min": "300dpi. V1 surreal painting needs high-res source — AI upscale to 4800x4800px minimum for 16x16 canvas",
+            "bleed": "Canvas gallery wrap: extend art 1.5\" on all sides for wrapping",
+            "color_mode": "sRGB for canvas/POD. Test print a proof — subtle eye details are make-or-break",
+            "transparency": "Not needed for this theme",
+            "detail_test": "Eyes must be visible but not immediately obvious from 6 feet. Check at multiple viewing distances."
+          },
+          "iteration_prompts": [
+            "If eyes are TOO obvious (creepy not artistic): 'make eyes more subtle, partially obscured by cloud wisps, visible only upon close inspection, pareidolia effect'",
+            "If eyes are TOO hidden (invisible): 'golden irises should catch light, subtle but discoverable, slight luminous glow around each eye'"
+          ],
+          "file_deliverables": ["T04-V1-canvas-16x16.png", "T04-V1-canvas-bleed.png", "T04-V2-tshirt-square.png", "T04-V2-tote-front.png"]
+        }
+      },
+      {
+        "theme_id": "T-05",
+        "theme_name": "Occult Data Grid",
+        "refinement_notes": {
+          "color_adjustments": [
+            "Cyan (#00E5FF) is out of CMYK gamut. For standard print: shift to #00B8D4. For DTG/sublimation: keep original.",
+            "Purple (#7B2FBE) prints well in most methods. No adjustment.",
+            "Holographic sticker: design should be single-color outlines ONLY (the holo material provides the color shift).",
+            "Tapestry sublimation: full RGB gamut supported. Keep vivid."
+          ],
+          "quality_checklist": {
+            "resolution_min": "Vector preferred for V2. V1 detailed: 6000x6000px minimum for tapestry",
+            "bleed": "Tapestry: 1\" bleed, design must tile or extend to edges cleanly",
+            "color_mode": "sRGB for POD, vector (SVG/AI) deliverable for screenprint",
+            "transparency": "T-shirt version: transparent PNG. Sticker: transparent with die-cut path",
+            "symmetry_check": "CRITICAL — overlay grid and verify perfect radial symmetry. Any asymmetry kills the design."
+          },
+          "iteration_prompts": [
+            "If sacred geometry looks hand-drawn/wobbly: 'mathematically precise sacred geometry, perfect symmetry, computer-generated precision, ruler-straight lines'",
+            "If tech symbols look forced: 'organically integrate WiFi, power, and data symbols INTO the geometry nodes, not overlaid on top'"
+          ],
+          "file_deliverables": ["T05-V1-tapestry-60x60.png", "T05-V2-tshirt-transparent.png", "T05-V2-sticker-outline.png", "T05-V1-phonecase.png", "T05-V2-vector.svg"]
+        }
+      },
+      {
+        "theme_id": "T-06",
+        "theme_name": "The Gaze of Atlas",
+        "refinement_notes": {
+          "color_adjustments": [
+            "Electric blue (#3A86FF) is vibrant and within gamut for most print methods. No adjustment for standard POD.",
+            "Deep navy (#0B132B) vs pure black: on black garments, the navy tones will be invisible. Lighten background to #1A2540 for apparel versions.",
+            "Poster/canvas: keep original dark values. Paper/canvas whites handle the contrast well.",
+            "Earth glow: warm highlight (#FFE0A0) on the globe provides the only warm tone. Don't lose it."
+          ],
+          "quality_checklist": {
+            "resolution_min": "300dpi. Poster 24x36 = 7200x10800px. Canvas 20x30 = 6000x9000px.",
+            "bleed": "Poster: 0.25\". Canvas: 1.5\" gallery wrap extension.",
+            "color_mode": "sRGB for POD uploads",
+            "transparency": "Hoodie back print: transparent PNG. Small chest logo: transparent with padding.",
+            "scale_test": "The eye-to-Earth scale ratio must feel dramatic. If Earth is too large, the power dynamic is lost."
+          },
+          "iteration_prompts": [
+            "If the cosmic eye looks like a nebula photo (too literal): 'stylized ethereal eye, painterly brushstrokes, not photographic, art concept illustration'",
+            "If Earth looks like a stock globe: 'softly glowing planet Earth viewed from cosmic distance, atmospheric haze, city lights visible on night side, not a sharp satellite photo'"
+          ],
+          "file_deliverables": ["T06-V1-poster-24x36.png", "T06-V1-canvas-20x30.png", "T06-V2-hoodie-back.png", "T06-V2-eye-logo-chest.png"]
+        }
+      }
+    ],
+    "master_production_notes": {
+      "file_naming": "{ThemeID}-{Variant}-{Product}-{Dimensions}.{ext}",
+      "color_profiles": "Embed sRGB IEC61966-2.1 in all files. CMYK conversions only for offset/screenprint orders.",
+      "upscaling": "Use Real-ESRGAN or Topaz Gigapixel for AI-generated images that need 300dpi at large sizes.",
+      "proofing": "Order one sample of each hero product before listing. Check: color accuracy, detail preservation, placement alignment.",
+      "formats": "PNG-24 for raster, SVG for vector, PDF/X-4 for print-ready packages"
+    },
+    "next_actions": [
+      {"stage": "SEOListing", "task_id": "SEO-005"}
+    ],
+    "timestamps": {"start": "2026-02-19T13:50:00Z", "end": "2026-02-19T13:55:00Z"},
+    "assets": [],
+    "flags": ["NONE"]
+  }
+]

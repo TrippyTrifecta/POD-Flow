@@ -1,0 +1,54 @@
+# Binaries and DBs
+*.db
+*.sqlite
+node_modules/
+*.log
+.env
+cookies.json  # Sensitive[cite:21]
+
+# OS junk
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Node / JS (if present)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Logs & temp files
+*.log
+*.tmp
+*.swp
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.code-workspace
+
+# Build / dist outputs
+dist/
+build/
+out/
+
+# Environment & secrets
+.env
+.env.*
+*.key
+*.pem
+*.p12
+
+# Misc large or generated stuff
+*.sqlite
+*.db
+*.db-journal

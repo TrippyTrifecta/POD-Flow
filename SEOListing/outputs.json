@@ -1,0 +1,211 @@
+[
+  {
+    "cycle_id": "SEO-005",
+    "stage": "SEO Listing Strategist",
+    "task_id": "SEO-005",
+    "input_brief": "Prepare optimized titles, descriptions, and tags based on refined design briefs and product data; calculate pricing and margins.",
+    "outputs": [
+      {
+        "theme_id": "T-01",
+        "theme_name": "Esoteric Eye & Capitol",
+        "listings": [
+          {
+            "product": "T-Shirt",
+            "title": "Esoteric Eye Capitol Dome Conspiracy Tee | All Seeing Eye Illuminati Shirt | Truth Seeker Streetwear | Occult Surveillance Art",
+            "description": "Bold gold all-seeing eye design hovering above a shadowy capitol dome. For truth seekers, conspiracy culture enthusiasts, and anyone who questions the narrative. Premium soft cotton, available in black, navy, and charcoal. The eye sees what they don't want you to see.",
+            "tags": ["conspiracy shirt", "all seeing eye", "illuminati tee", "truth seeker", "esoteric clothing", "occult fashion", "surveillance art", "capitol dome", "streetwear graphic tee", "eye of providence", "secret society", "woke shirt", "conspiracy theory gift", "dark aesthetic"],
+            "pricing": {"cost": 8.50, "suggested_retail": 24.99, "margin_pct": 66},
+            "platforms": ["Etsy", "Redbubble", "TeePublic", "Amazon Merch"]
+          },
+          {
+            "product": "Poster",
+            "title": "All Seeing Eye Capitol Art Print | Esoteric Conspiracy Poster | Dark Academia Wall Art | Occult Home Decor | Illuminati Art",
+            "description": "Dramatic poster featuring a golden all-seeing eye casting geometric light rays over a shadowed capitol dome silhouette. Museum-quality print on premium matte paper. Statement piece for your office, dorm, or conspiracy corner. Available in 18x24 and 24x36.",
+            "tags": ["conspiracy poster", "all seeing eye art", "dark academia decor", "occult wall art", "illuminati poster", "esoteric art print", "government conspiracy", "truth seeker decor", "gothic home decor", "office art", "dorm poster", "surveillance art print"],
+            "pricing": {"cost_18x24": 5.00, "cost_24x36": 7.50, "suggested_retail_18x24": 18.99, "suggested_retail_24x36": 27.99, "margin_pct": 72},
+            "platforms": ["Etsy", "Redbubble", "Society6"]
+          },
+          {
+            "product": "Hoodie",
+            "title": "Esoteric Eye Hoodie | All Seeing Eye Back Print | Conspiracy Streetwear Pullover | Illuminati Occult Hoodie",
+            "description": "Full back print of the all-seeing eye and capitol dome in gold and dark red on premium heavyweight cotton. Small eye logo on front left chest. The hoodie for those who keep their eyes open. Unisex fit.",
+            "tags": ["conspiracy hoodie", "all seeing eye hoodie", "illuminati sweatshirt", "occult streetwear", "back print hoodie", "graphic hoodie", "truth seeker hoodie", "edgy streetwear", "gold graphic hoodie"],
+            "pricing": {"cost": 18.00, "suggested_retail": 49.99, "margin_pct": 64},
+            "platforms": ["Etsy", "Redbubble", "TeePublic"]
+          }
+        ]
+      },
+      {
+        "theme_id": "T-02",
+        "theme_name": "Ciphered Skyline",
+        "listings": [
+          {
+            "product": "T-Shirt",
+            "title": "Cyberpunk Cipher City Tee | Cryptic Skyline Hacker Shirt | Neon Code Streetwear | Matrix City Graphic Tee",
+            "description": "Dark cyberpunk cityscape with cryptic symbols glowing in neon green across building facades. For hackers, coders, cyberpunk fans, and urban mystery lovers. Decode the city. Premium soft tee in black and dark teal.",
+            "tags": ["cyberpunk shirt", "hacker tee", "matrix shirt", "neon city", "code shirt", "programmer gift", "cipher art", "cryptic design", "cyberpunk fashion", "tech streetwear", "gamer tee", "urban art shirt", "neon green graphic"],
+            "pricing": {"cost": 8.50, "suggested_retail": 24.99, "margin_pct": 66},
+            "platforms": ["Etsy", "Redbubble", "TeePublic", "Amazon Merch"]
+          },
+          {
+            "product": "Desk Mat",
+            "title": "Cyberpunk City Desk Mat | Cryptic Neon Skyline Gaming Pad | Large Extended Mouse Pad | Hacker Aesthetic Desk Setup",
+            "description": "35x15.5 inch extended desk mat featuring a panoramic cyberpunk cityscape with neon green cipher symbols. Premium stitched edges, non-slip rubber base. Level up your desk setup. Perfect for gamers, coders, and cyberpunk enthusiasts.",
+            "tags": ["cyberpunk desk mat", "gaming desk pad", "extended mouse pad", "hacker desk setup", "neon desk mat", "programmer desk mat", "gaming accessory", "cyberpunk decor", "large mouse pad", "code aesthetic", "gamer gift"],
+            "pricing": {"cost": 12.00, "suggested_retail": 34.99, "margin_pct": 66},
+            "platforms": ["Etsy", "Amazon", "Redbubble"]
+          },
+          {
+            "product": "Mug",
+            "title": "Cyberpunk City Mug | Neon Cipher Skyline Coffee Cup | Hacker Morning Brew | Programmer Gift Mug",
+            "description": "Wrap-around panoramic cyberpunk cityscape on an 11oz ceramic mug. Neon green cipher symbols glow across the skyline as you sip. Microwave and dishwasher safe. Decode your morning.",
+            "tags": ["cyberpunk mug", "hacker coffee mug", "programmer mug", "neon mug", "gamer mug", "code coffee cup", "tech gift", "cyberpunk decor", "office mug"],
+            "pricing": {"cost": 4.50, "suggested_retail": 16.99, "margin_pct": 73},
+            "platforms": ["Etsy", "Redbubble", "TeePublic"]
+          }
+        ]
+      },
+      {
+        "theme_id": "T-03",
+        "theme_name": "Redacted Truth",
+        "listings": [
+          {
+            "product": "T-Shirt (Light)",
+            "title": "Redacted Truth Tee | CLASSIFIED Document Shirt | Government Censorship Art | Free Speech Graphic Tee | What Are They Hiding",
+            "description": "Bold black redaction bars with the message hidden in plain sight: WHAT ARE THEY HIDING. Red CLASSIFIED stamp accent. For anyone who reads between the lines. Premium soft cotton in white, cream, and light gray.",
+            "tags": ["redacted shirt", "classified tee", "censorship shirt", "free speech", "conspiracy shirt", "government shirt", "truth tee", "protest shirt", "political shirt", "what are they hiding", "redacted document", "declassified"],
+            "pricing": {"cost": 8.50, "suggested_retail": 22.99, "margin_pct": 63},
+            "platforms": ["Etsy", "Redbubble", "TeePublic", "Amazon Merch"]
+          },
+          {
+            "product": "Sticker Pack",
+            "title": "CLASSIFIED Stamp Sticker | Redacted Document Vinyl Sticker | Conspiracy Laptop Sticker | Government Censorship Decal",
+            "description": "Die-cut vinyl CLASSIFIED stamp sticker with distressed texture. Weatherproof, dishwasher safe. Slap it on your laptop, water bottle, or anything they don't want you to label. 3x2 inches.",
+            "tags": ["classified sticker", "conspiracy sticker", "laptop sticker", "vinyl sticker", "government sticker", "censorship sticker", "water bottle sticker", "redacted sticker", "funny political sticker", "truth sticker"],
+            "pricing": {"cost": 0.75, "suggested_retail": 3.99, "margin_pct": 81},
+            "platforms": ["Etsy", "Redbubble"]
+          },
+          {
+            "product": "Poster",
+            "title": "Classified Document Art Print | Redacted Truth Poster | Government Censorship Wall Art | Conspiracy Decor | Declassified Art",
+            "description": "Photorealistic aged classified document with heavy black redaction bars, coffee stains, and fold marks. Red CLASSIFIED stamp at angle. Looks like it fell off someone's desk at Langley. Premium matte paper.",
+            "tags": ["classified poster", "redacted document art", "conspiracy wall art", "declassified art print", "government poster", "censorship art", "CIA aesthetic", "dark academia poster", "office decor funny"],
+            "pricing": {"cost": 5.00, "suggested_retail": 18.99, "margin_pct": 74},
+            "platforms": ["Etsy", "Redbubble", "Society6"]
+          }
+        ]
+      },
+      {
+        "theme_id": "T-04",
+        "theme_name": "Eyes in the Cloud",
+        "listings": [
+          {
+            "product": "Canvas Print",
+            "title": "Eyes in the Clouds Canvas Art | Surreal Sky Painting | All Seeing Eye Cloud Art | Surveillance Art Print | Ethereal Wall Decor",
+            "description": "Surreal twilight clouds with golden eyes subtly hidden within the formations. Beautiful from across the room, unsettling up close. Gallery-wrapped canvas, ready to hang. A conversation piece that watches back. 16x16 inches.",
+            "tags": ["surreal canvas art", "cloud painting", "eye art", "surrealism wall art", "ethereal decor", "surveillance art", "creepy art", "sky painting", "golden eye art", "modern wall art", "conversation piece", "unique home decor"],
+            "pricing": {"cost": 14.00, "suggested_retail": 54.99, "margin_pct": 75},
+            "platforms": ["Etsy", "Society6", "Redbubble"]
+          },
+          {
+            "product": "T-Shirt",
+            "title": "Eyes in the Clouds Tee | Surreal Sky Art Shirt | Ethereal Eye Design | Surveillance Art Streetwear",
+            "description": "Stylized cloud formations with geometric eye symbols in muted blue and cyan. Subtle, artsy, and a little unsettling. For surrealism fans and those who look up. Premium soft tee.",
+            "tags": ["surreal art shirt", "cloud tee", "eye shirt", "ethereal fashion", "artsy tee", "surveillance shirt", "sky art", "unique graphic tee", "art lover shirt"],
+            "pricing": {"cost": 8.50, "suggested_retail": 24.99, "margin_pct": 66},
+            "platforms": ["Etsy", "Redbubble", "TeePublic"]
+          },
+          {
+            "product": "Tote Bag",
+            "title": "Surreal Cloud Eye Tote Bag | Ethereal Art Tote | Artsy Canvas Bag | Unique Market Bag | Surveillance Art",
+            "description": "Natural cotton tote bag with centered vector cloud-and-eye design in muted blue tones. Artsy, subtle, and functional. Perfect for the gallery, the market, or just carrying your secrets.",
+            "tags": ["art tote bag", "surreal tote", "cloud art bag", "artsy tote bag", "canvas market bag", "unique tote bag", "eye art bag", "aesthetic tote"],
+            "pricing": {"cost": 6.00, "suggested_retail": 19.99, "margin_pct": 70},
+            "platforms": ["Etsy", "Redbubble", "Society6"]
+          }
+        ]
+      },
+      {
+        "theme_id": "T-05",
+        "theme_name": "Occult Data Grid",
+        "listings": [
+          {
+            "product": "T-Shirt",
+            "title": "Sacred Geometry Data Grid Tee | Occult Tech Mandala Shirt | Metatron's Circuit Board | Mystic Technology Streetwear",
+            "description": "Sacred geometry mandala fused with circuit board patterns and tech symbols. Where ancient mysticism meets modern data. Purple and cyan on black. For the spiritually wired. Premium soft cotton.",
+            "tags": ["sacred geometry shirt", "occult tee", "mandala shirt", "tech art shirt", "metatron cube", "circuit board art", "mystic technology", "spiritual tech", "rave shirt", "festival tee", "geometric art shirt", "data art", "flower of life"],
+            "pricing": {"cost": 8.50, "suggested_retail": 24.99, "margin_pct": 66},
+            "platforms": ["Etsy", "Redbubble", "TeePublic", "Amazon Merch"]
+          },
+          {
+            "product": "Holographic Sticker",
+            "title": "Sacred Geometry Holographic Sticker | Occult Data Mandala Holo Decal | Mystic Tech Sticker | Laptop Hologram Sticker",
+            "description": "3x3 inch die-cut holographic sticker of the occult data grid mandala. Rainbow holographic material shifts colors as you move. Sacred geometry meets iridescent tech. Premium vinyl, weatherproof.",
+            "tags": ["holographic sticker", "sacred geometry sticker", "mandala sticker", "holo sticker", "iridescent sticker", "occult sticker", "laptop sticker", "mystic sticker", "festival sticker", "rainbow sticker"],
+            "pricing": {"cost": 1.25, "suggested_retail": 5.99, "margin_pct": 79},
+            "platforms": ["Etsy", "Redbubble"]
+          },
+          {
+            "product": "Tapestry",
+            "title": "Occult Data Grid Tapestry | Sacred Geometry Wall Hanging | Mandala Tapestry | Meditation Room Decor | Mystic Tech Art",
+            "description": "Large 60x60 inch tapestry featuring an intricate sacred geometry mandala with circuit board trace patterns in purple and cyan on dark background. Perfect for meditation spaces, dorm rooms, or anywhere that needs a portal to the digital mystical. Lightweight polyester.",
+            "tags": ["mandala tapestry", "sacred geometry tapestry", "occult tapestry", "meditation decor", "wall hanging", "dorm tapestry", "psychedelic tapestry", "spiritual decor", "mystic tapestry", "boho tapestry", "festival tapestry"],
+            "pricing": {"cost": 10.00, "suggested_retail": 34.99, "margin_pct": 71},
+            "platforms": ["Etsy", "Redbubble", "Society6", "Amazon"]
+          },
+          {
+            "product": "Phone Case",
+            "title": "Sacred Geometry Phone Case | Occult Data Mandala Case | Mystic Tech iPhone Samsung Case | Spiritual Art Phone Cover",
+            "description": "Intricate sacred geometry data grid mandala centered perfectly on your phone. Purple and cyan on dark background. Symmetrical design that looks intentional, not stretched. Available for iPhone and Samsung Galaxy models.",
+            "tags": ["sacred geometry phone case", "mandala phone case", "occult phone case", "mystic phone cover", "geometric phone case", "spiritual phone case", "art phone case", "unique phone case"],
+            "pricing": {"cost": 7.00, "suggested_retail": 22.99, "margin_pct": 70},
+            "platforms": ["Etsy", "Redbubble", "TeePublic"]
+          }
+        ]
+      },
+      {
+        "theme_id": "T-06",
+        "theme_name": "The Gaze of Atlas",
+        "listings": [
+          {
+            "product": "Poster",
+            "title": "The Gaze of Atlas Poster | Cosmic Eye Earth Art Print | All Seeing Eye Space Art | Mythology Wall Art | Epic Sci-Fi Poster",
+            "description": "A titan-scale cosmic eye gazes down at a glowing Earth from the depths of space. Electric blue light beam connects the watcher to the watched. Epic concept art quality. Statement piece for your wall. Premium matte paper in 18x24 and 24x36.",
+            "tags": ["cosmic art poster", "space poster", "all seeing eye", "atlas mythology", "sci-fi art print", "epic poster", "cosmic eye", "earth art", "space wall art", "mythology poster", "concept art print", "titan art", "omniscience art"],
+            "pricing": {"cost_18x24": 5.00, "cost_24x36": 7.50, "suggested_retail_18x24": 21.99, "suggested_retail_24x36": 32.99, "margin_pct": 76},
+            "platforms": ["Etsy", "Redbubble", "Society6"]
+          },
+          {
+            "product": "Hoodie",
+            "title": "Gaze of Atlas Hoodie | Cosmic Eye Back Print Hoodie | Space Art Streetwear | Epic Mythology Pullover",
+            "description": "Full back print: a stylized cosmic eye with geometric rays extending down to a wireframe globe. Electric blue on black. Small eye logo on front left chest. For those who see the bigger picture. Heavyweight unisex pullover.",
+            "tags": ["cosmic hoodie", "space hoodie", "all seeing eye hoodie", "back print hoodie", "atlas hoodie", "mythology streetwear", "sci-fi hoodie", "graphic hoodie", "epic hoodie", "blue graphic hoodie"],
+            "pricing": {"cost": 18.00, "suggested_retail": 52.99, "margin_pct": 66},
+            "platforms": ["Etsy", "Redbubble", "TeePublic"]
+          },
+          {
+            "product": "Canvas Print",
+            "title": "Cosmic Eye Canvas Art | Gaze of Atlas Wall Art | Space Mythology Canvas | All Seeing Eye Earth Painting | Sci-Fi Home Decor",
+            "description": "Gallery-wrapped canvas of the colossal cosmic eye gazing upon Earth from the void. Deep blues and electric blue with warm Earth glow. 20x30 inches, ready to hang. Conversation starter. Gallery-quality.",
+            "tags": ["cosmic canvas", "space canvas art", "eye canvas print", "mythology wall art", "sci-fi canvas", "large wall art", "unique canvas art", "atlas art", "earth canvas", "premium wall art"],
+            "pricing": {"cost": 18.00, "suggested_retail": 74.99, "margin_pct": 76},
+            "platforms": ["Etsy", "Society6"]
+          }
+        ]
+      }
+    ],
+    "seo_strategy_notes": {
+      "title_formula": "Primary Keyword + Design Name | Secondary Keywords | Niche/Audience | Gift Angle",
+      "tag_strategy": "Front-load highest-volume keywords. Mix broad (graphic tee) with niche (illuminati shirt). 13-15 tags per Etsy listing.",
+      "pricing_strategy": "T-shirts $22-25 (competitive entry), Hoodies $49-53 (premium feel), Posters $18-33 (size-dependent), Canvas $54-75 (premium), Stickers $3.99-5.99 (impulse), Desk mats $34.99 (niche premium).",
+      "platform_priority": "Etsy first (organic search + niche buyers), Redbubble second (passive/volume), TeePublic third (apparel-focused), Amazon Merch (if approved, scale play).",
+      "seasonal_angles": "Halloween boost for T-01/T-03/T-05 (occult/conspiracy). Holiday gifting for all (stocking stuffers = stickers/mugs)."
+    },
+    "next_actions": [
+      {"stage": "SocialContent", "task_id": "SC-006"}
+    ],
+    "timestamps": {"start": "2026-02-19T13:55:00Z", "end": "2026-02-19T14:00:00Z"},
+    "assets": [],
+    "flags": ["NONE"]
+  }
+]

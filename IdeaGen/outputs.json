@@ -1,0 +1,70 @@
+[
+  {
+    "cycle_id": "IGR-001",
+    "stage": "Idea Gen & Research",
+    "task_id": "IGR-001",
+    "input_brief": "Live flesh: generate 6-12 design themes, keyword clusters, slogans, and inspiration picks for DA-002 handoff based on user's persona and niche.",
+    "outputs": [
+      {
+        "theme_id": "T-01",
+        "theme_name": "Esoteric Eye & Capitol",
+        "rationale": "Silhouette of omniscience with secrecy; conspiracy-era vibe.",
+        "keywords": ["esoteric eye","capitol","surveillance","truth-seeker"],
+        "slogans": ["See beyond the noise", "Truth reveals what’s hidden"],
+        "inspiration": [{"url":"https://example.com/insp1","note":"sample inspiration"}],
+        "log_entry": {"ts":"2026-02-19T08:40:00Z","notes":"IGR-001 live flesh generated"}
+      },
+      {
+        "theme_id": "T-02",
+        "theme_name": "Ciphered Skyline",
+        "rationale": "Urban mystique with cryptic symbolism.",
+        "keywords": ["cryptic","city","mystic"],
+        "slogans": ["Decode the city", "Hidden messages in plain sight"],
+        "inspiration": [{"url":"https://example.com/insp2","note":"sample insp2"}],
+        "log_entry": {"ts":"2026-02-19T08:41:00Z","notes":"IGR-001 additional concept"}
+      },
+      {
+        "theme_id": "T-03",
+        "theme_name": "Redacted Truth",
+        "rationale": "Censorship and revelation motif.",
+        "keywords": ["redacted","classified","truth"],
+        "slogans": ["What’s behind the redaction?"],
+        "inspiration": [{"url":"https://example.com/insp3","note":"sample insp3"}],
+        "log_entry": {"ts":"2026-02-19T08:42:00Z","notes":"IGR-001 third concept"}
+      },
+      {
+        "theme_id": "T-04",
+        "theme_name": "Eyes in the Cloud",
+        "rationale": "Surveillance meets ethereal tech aesthetics.",
+        "keywords": ["eye","cloud","AI"],
+        "slogans": ["Watching over the digital age"],
+        "inspiration": [{"url":"https://example.com/insp4","note":"sample insp4"}],
+        "log_entry": {"ts":"2026-02-19T08:43:00Z","notes":"IGR-001 fourth concept"}
+      },
+      {
+        "theme_id": "T-05",
+        "theme_name": "Occult Data Grid",
+        "rationale": "Mystic symbols with data textures.",
+        "keywords": ["occult","data","grid"],
+        "slogans": ["Hidden digits, revealed minds"],
+        "inspiration": [{"url":"https://example.com/insp5","note":"sample insp5"}],
+        "log_entry": {"ts":"2026-02-19T08:44:00Z","notes":"IGR-001 fifth concept"}
+      },
+      {
+        "theme_id": "T-06",
+        "theme_name": "The Gaze of Atlas",
+        "rationale": "All-seeing eye motif with global scale.",
+        "keywords": ["all-seeing eye","atlas","global"],
+        "slogans": ["The gaze outlives borders"],
+        "inspiration": [{"url":"https://example.com/insp6","note":"sample insp6"}],
+        "log_entry": {"ts":"2026-02-19T08:45:00Z","notes":"IGR-001 final concept"}
+      }
+    ],
+    "next_actions": [
+      {"stage": "Design Architect","task_id": "DA-002"}
+    ],
+    "timestamps": {"start":"2026-02-19T08:30:00Z","end":"2026-02-19T08:45:00Z"},
+    "assets": [],
+    "flags": ["NONE"]
+  }
+]

@@ -1,0 +1,252 @@
+[
+  {
+    "cycle_id": "MM-003",
+    "stage": "Mockup Maestro",
+    "task_id": "MM-003",
+    "input_brief": "From DA-002 briefs, generate 1-4 high-fidelity mockups per theme, including front/back placements and color variants.",
+    "outputs": [
+      {
+        "theme_id": "T-01",
+        "theme_name": "Esoteric Eye & Capitol",
+        "mockups": [
+          {
+            "mockup_id": "MM-T01-01",
+            "product": "T-Shirt (Black)",
+            "placement": "front-center-chest",
+            "print_dimensions": "12x16 inches",
+            "design_variant": "V2 (minimalist vector)",
+            "mockup_prompt": "Professional product photography mockup of a black crew-neck t-shirt on a mannequin torso against dark studio backdrop, front view, featuring a gold linework illuminati eye over capitol dome design centered on chest, clean studio lighting, e-commerce ready, high resolution",
+            "color_variants": ["Black", "Navy", "Charcoal"],
+            "notes": "Gold on black is the hero colorway. Test navy as secondary."
+          },
+          {
+            "mockup_id": "MM-T01-02",
+            "product": "Poster (24x36)",
+            "placement": "full-bleed",
+            "print_dimensions": "24x36 inches @ 300dpi",
+            "design_variant": "V1 (detailed illustration)",
+            "mockup_prompt": "Frame mockup of a 24x36 portrait poster in slim black frame hung on dark concrete wall, moody ambient lighting, the poster features a dramatic golden all-seeing eye above a shadowy capitol dome with geometric light rays, interior design photography style",
+            "color_variants": ["N/A - single colorway"],
+            "notes": "Premium matte paper recommended. This is the hero product for T-01."
+          },
+          {
+            "mockup_id": "MM-T01-03",
+            "product": "Hoodie (Black)",
+            "placement": "back-full",
+            "print_dimensions": "14x18 inches",
+            "design_variant": "V1 (detailed illustration)",
+            "mockup_prompt": "Product photography of a black pullover hoodie laid flat on dark surface, back view showing large all-seeing eye and capitol dome design spanning the full back, gold and dark red tones on black fabric, overhead flat-lay style, e-commerce ready",
+            "color_variants": ["Black", "Dark Heather"],
+            "notes": "Front: small eye logo left-chest. Back: full illustration."
+          }
+        ]
+      },
+      {
+        "theme_id": "T-02",
+        "theme_name": "Ciphered Skyline",
+        "mockups": [
+          {
+            "mockup_id": "MM-T02-01",
+            "product": "Mug (11oz wrap)",
+            "placement": "wrap-around",
+            "print_dimensions": "9.5x3.5 inches",
+            "design_variant": "V1 (cyberpunk painting)",
+            "mockup_prompt": "Product photography of a white ceramic 11oz mug on a dark desk with soft lighting, wrap-around print of a cyberpunk cityscape at night with neon green cryptic symbols on building facades, steam rising from the mug, lifestyle shot",
+            "color_variants": ["White mug", "Black mug"],
+            "notes": "Panoramic design wraps naturally. Crop handles area carefully."
+          },
+          {
+            "mockup_id": "MM-T02-02",
+            "product": "Desk Mat (Large)",
+            "placement": "full-surface",
+            "print_dimensions": "35x15.5 inches",
+            "design_variant": "V1 (cyberpunk painting)",
+            "mockup_prompt": "Lifestyle mockup of a large gaming desk mat on a dark desk setup with keyboard and mouse, the mat features a wide panoramic cyberpunk cityscape with teal and neon green cipher symbols, ambient RGB lighting in background, gamer aesthetic photography",
+            "color_variants": ["N/A"],
+            "notes": "Landscape format is perfect for desk mats. High-margin product."
+          },
+          {
+            "mockup_id": "MM-T02-03",
+            "product": "T-Shirt (Black)",
+            "placement": "front-center-chest",
+            "print_dimensions": "10x10 inches (square crop)",
+            "design_variant": "V2 (flat illustration)",
+            "mockup_prompt": "Product mockup of a black t-shirt on a model in urban setting, front view, square chest print of a flat minimalist city skyline with glowing cryptic symbols in windows, teal and green on black, streetwear photography style",
+            "color_variants": ["Black", "Dark Teal"],
+            "notes": "Square crop of the V2 flat version for chest print."
+          }
+        ]
+      },
+      {
+        "theme_id": "T-03",
+        "theme_name": "Redacted Truth",
+        "mockups": [
+          {
+            "mockup_id": "MM-T03-01",
+            "product": "T-Shirt (White)",
+            "placement": "front-center-chest",
+            "print_dimensions": "12x16 inches",
+            "design_variant": "V2 (bold graphic)",
+            "mockup_prompt": "Clean product photography of a white crew-neck t-shirt on a model against white studio backdrop, front view, bold black redaction bars with visible words 'WHAT ARE THEY HIDING' between bars, red accent line at top, minimal high-contrast design, fashion editorial style",
+            "color_variants": ["White", "Natural/Cream", "Light Gray"],
+            "notes": "Light shirt hero. The simplicity makes this very versatile."
+          },
+          {
+            "mockup_id": "MM-T03-02",
+            "product": "T-Shirt (Black, inverted)",
+            "placement": "front-center-chest",
+            "print_dimensions": "12x16 inches",
+            "design_variant": "V2 inverted (white bars on black)",
+            "mockup_prompt": "Product photography of a black crew-neck t-shirt on a model in moody studio lighting, front view, white redaction bars with visible text between them, red CLASSIFIED stamp accent, inverted color scheme for dark garment, streetwear style",
+            "color_variants": ["Black", "Navy"],
+            "notes": "Same design inverted for dark tees. Test both to see which sells."
+          },
+          {
+            "mockup_id": "MM-T03-03",
+            "product": "Poster (18x24)",
+            "placement": "full-bleed",
+            "print_dimensions": "18x24 inches @ 300dpi",
+            "design_variant": "V1 (photorealistic document)",
+            "mockup_prompt": "Frame mockup of an 18x24 poster in a simple white frame on a light wall, the poster shows a photorealistic aged classified document with heavy black redaction bars and coffee stains, red CLASSIFIED stamp, paper texture visible, art gallery style presentation",
+            "color_variants": ["N/A"],
+            "notes": "Art print version. Could also work as a smaller 11x17."
+          },
+          {
+            "mockup_id": "MM-T03-04",
+            "product": "Sticker Pack",
+            "placement": "die-cut individual",
+            "print_dimensions": "3x2 inches each",
+            "design_variant": "CLASSIFIED stamp only",
+            "mockup_prompt": "Flat-lay product photo of die-cut vinyl stickers scattered on a dark surface, red CLASSIFIED stamp design with distressed texture edges, various sizes, laptop and water bottle visible in background with stickers applied, lifestyle product photography",
+            "color_variants": ["Red/White", "Red/Black"],
+            "notes": "Low-cost accessory product. High margin, impulse buy. Bundle with tee orders."
+          }
+        ]
+      },
+      {
+        "theme_id": "T-04",
+        "theme_name": "Eyes in the Cloud",
+        "mockups": [
+          {
+            "mockup_id": "MM-T04-01",
+            "product": "Canvas Print (16x16)",
+            "placement": "gallery-wrapped",
+            "print_dimensions": "16x16 inches @ 300dpi",
+            "design_variant": "V1 (surreal painting)",
+            "mockup_prompt": "Interior design mockup of a square gallery-wrapped canvas on a white wall above a modern console table, the canvas shows surreal twilight clouds with golden eyes embedded within, warm ambient room lighting, home decor photography style, premium art presentation",
+            "color_variants": ["N/A"],
+            "notes": "Premium product. Higher price point ($45-65). Art buyer audience."
+          },
+          {
+            "mockup_id": "MM-T04-02",
+            "product": "T-Shirt (Navy)",
+            "placement": "front-center-chest",
+            "print_dimensions": "10x10 inches",
+            "design_variant": "V2 (clean vector)",
+            "mockup_prompt": "Product photography of a navy blue t-shirt on a model outdoors at twilight, front view, square vector cloud design with geometric eye symbols on chest, muted blue and cyan palette blends with shirt color, atmospheric lifestyle photography",
+            "color_variants": ["Navy", "Steel Blue", "Black"],
+            "notes": "V2 vector scales well for apparel. Navy integrates with the color palette."
+          },
+          {
+            "mockup_id": "MM-T04-03",
+            "product": "Tote Bag (Natural)",
+            "placement": "front-center",
+            "print_dimensions": "10x10 inches",
+            "design_variant": "V2 (clean vector)",
+            "mockup_prompt": "Lifestyle mockup of a natural cotton tote bag being carried by a person in an urban setting, the bag features a centered vector cloud-and-eye design in muted blue tones, artsy casual style photography, natural daylight",
+            "color_variants": ["Natural", "Black"],
+            "notes": "Art-market crossover product. Pairs well with canvas print for bundle."
+          }
+        ]
+      },
+      {
+        "theme_id": "T-05",
+        "theme_name": "Occult Data Grid",
+        "mockups": [
+          {
+            "mockup_id": "MM-T05-01",
+            "product": "T-Shirt (Black)",
+            "placement": "front-center-chest",
+            "print_dimensions": "12x12 inches",
+            "design_variant": "V2 (simplified vector)",
+            "mockup_prompt": "Product photography of a black t-shirt on a model in dark studio with purple ambient lighting, front view, centered sacred geometry mandala with tech symbols in cyan and purple linework on chest, edgy streetwear photography, symmetrical design prominent",
+            "color_variants": ["Black", "Dark Purple"],
+            "notes": "Hero product for this theme. Symmetrical design = perfect center placement."
+          },
+          {
+            "mockup_id": "MM-T05-02",
+            "product": "Holographic Sticker",
+            "placement": "die-cut circle",
+            "print_dimensions": "3x3 inches",
+            "design_variant": "V2 mandala outline",
+            "mockup_prompt": "Close-up product photo of a holographic circular sticker on a laptop lid, sacred geometry data grid mandala design catching rainbow light refractions, iridescent holographic material, clean product photography on dark background",
+            "color_variants": ["Holographic", "Matte black with purple foil"],
+            "notes": "Holographic material + mandala geometry = high perceived value. $4-6 price point."
+          },
+          {
+            "mockup_id": "MM-T05-03",
+            "product": "Tapestry (60x60)",
+            "placement": "full-bleed",
+            "print_dimensions": "60x60 inches",
+            "design_variant": "V1 (intricate detailed)",
+            "mockup_prompt": "Interior lifestyle mockup of a large square tapestry hung on a white wall in a bohemian-styled room, intricate sacred geometry mandala with circuit board patterns in purple and cyan on dark background, ambient fairy lights, meditation space aesthetic",
+            "color_variants": ["N/A"],
+            "notes": "Large format mandala tapestries are a proven category. $25-40 price point."
+          },
+          {
+            "mockup_id": "MM-T05-04",
+            "product": "Phone Case",
+            "placement": "full-back",
+            "print_dimensions": "device-specific",
+            "design_variant": "V1 (detailed mandala)",
+            "mockup_prompt": "Product photography of a phone case on a dark reflective surface, the case features an intricate sacred geometry data grid mandala in purple and cyan, symmetrical design centered on the case back, premium matte finish, studio lighting",
+            "color_variants": ["Clear/frosted", "Matte black"],
+            "notes": "Symmetry centers perfectly on phone cases. Offer for iPhone + Samsung."
+          }
+        ]
+      },
+      {
+        "theme_id": "T-06",
+        "theme_name": "The Gaze of Atlas",
+        "mockups": [
+          {
+            "mockup_id": "MM-T06-01",
+            "product": "Poster (24x36)",
+            "placement": "full-bleed",
+            "print_dimensions": "24x36 inches @ 300dpi",
+            "design_variant": "V1 (epic concept art)",
+            "mockup_prompt": "Gallery mockup of a large 24x36 portrait poster in a minimal black frame on a dark wall with dramatic spotlight, the poster shows an epic cosmic eye gazing down at a glowing Earth with electric blue light beam, cinematic scale, premium art gallery presentation",
+            "color_variants": ["N/A"],
+            "notes": "Flagship product for T-06. Premium price point ($25-45). Matte or satin paper."
+          },
+          {
+            "mockup_id": "MM-T06-02",
+            "product": "Hoodie (Black)",
+            "placement": "back-full",
+            "print_dimensions": "14x20 inches",
+            "design_variant": "V2 (bold graphic)",
+            "mockup_prompt": "Product photography of a black pullover hoodie on a model from behind, large back print of a stylized giant eye with geometric rays extending down to a globe wireframe, electric blue on black, urban streetwear photography, dramatic lighting",
+            "color_variants": ["Black", "Dark Navy"],
+            "notes": "Full back print hero. Front: small eye logo on left chest."
+          },
+          {
+            "mockup_id": "MM-T06-03",
+            "product": "Canvas Print (20x30)",
+            "placement": "gallery-wrapped",
+            "print_dimensions": "20x30 inches @ 300dpi",
+            "design_variant": "V1 (epic concept art)",
+            "mockup_prompt": "Interior mockup of a tall portrait canvas print on a modern apartment wall, cosmic all-seeing eye above a small glowing Earth in deep blues and electric blue, premium gallery-wrapped edges, contemporary home setting, warm ambient lighting",
+            "color_variants": ["N/A"],
+            "notes": "Premium canvas. $50-80 price range. Target art/home decor buyers."
+          }
+        ]
+      }
+    ],
+    "next_actions": [
+      {"stage": "Image Refiner", "task_id": "IR-004"}
+    ],
+    "timestamps": {"start": "2026-02-19T13:45:00Z", "end": "2026-02-19T13:50:00Z"},
+    "assets": [],
+    "flags": ["NONE"]
+  }
+]
