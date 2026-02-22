@@ -52,3 +52,11 @@ out/
 *.sqlite
 *.db
 *.db-journal
+001/SneakerPulse_DesignA.md
+001/SneakerPulse_DesignA.md
+001/SneakerPulse_DesignA.md
+001/SneakerPulse_DesignA.md
+001/SneakerPulse_DesignC.md
+Critic/evaluations/SneakerPulse_DesignA_gate1.json
+Critic/evaluations/SneakerPulse_DesignB_gate1.json
+Critic/evaluations/SneakerPulse_DesignC_gate1.json
